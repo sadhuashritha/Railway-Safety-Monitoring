@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚆 Railway Safety Monitoring System
 
-# Run and deploy your AI Studio app
+An AI-powered railway safety monitoring system that uses computer vision to detect potential hazards and support railway safety management.
 
-This contains everything you need to run your app locally.
+### ✨ Features
+- AI-based object detection using YOLO
+- Image and video detection
+- Automated safety alerts
+- Incident and detection history management
+- Railway location and camera management
+- Dashboard for safety monitoring
 
-View your app in AI Studio: https://ai.studio/apps/26a1c59a-e34f-4437-afe4-3d0544613553
+### 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI
+- **AI Model:** YOLO, OpenCV
+- **Database:** MongoDB
 
-## Run Locally
+### 📂 Project Structure
+- `frontend-new/` — React frontend
+- `backend/` — FastAPI backend
+- `runs/` — Trained YOLO model
+- CSV files — Railway location and station data
 
-**Prerequisites:**  Node.js
+### 🚀 Project Goal
+To improve railway safety by identifying potential hazards and enabling faster monitoring and response.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 👩‍💻 Developed By
+**Ashritha Sadhu**
