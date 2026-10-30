@@ -1,0 +1,167 @@
+﻿district_id,state_id,name,lgd_code,lgd_version,name_local,state_lgd_code
+maharashtra-466,maharashtra,Ahilyanagar,466,2,अहिल्यानगर,27
+maharashtra-467,maharashtra,Akola,467,1,अकोला,27
+maharashtra-468,maharashtra,Amravati,468,1,अमरावती,27
+maharashtra-470,maharashtra,Beed,470,1,बीड,27
+maharashtra-471,maharashtra,Bhandara,471,1,भंडारा,27
+maharashtra-472,maharashtra,Buldhana,472,1,बुलढाणा,27
+maharashtra-473,maharashtra,Chandrapur,473,1,चंद्रपूर,27
+maharashtra-469,maharashtra,Chhatrapati Sambhajinagar,469,3,छत्रपती संभाजीनगर,27
+maharashtra-488,maharashtra,Dharashiv,488,5,धाराशिव,27
+maharashtra-474,maharashtra,Dhule,474,1,धुळे,27
+maharashtra-475,maharashtra,Gadchiroli,475,1,गडचिरोली,27
+maharashtra-476,maharashtra,Gondia,476,1,गोंदीया,27
+maharashtra-477,maharashtra,Hingoli,477,1,हिंगोली,27
+maharashtra-478,maharashtra,Jalgaon,478,2,जळगाव,27
+maharashtra-479,maharashtra,Jalna,479,2,जालना,27
+maharashtra-480,maharashtra,Kolhapur,480,1,कोल्हापूर,27
+maharashtra-481,maharashtra,Latur,481,2,लातूर,27
+maharashtra-482,maharashtra,Mumbai,482,1,मुंबई,27
+maharashtra-483,maharashtra,Mumbai Suburban,483,1,मुंबई उपनगर,27
+maharashtra-484,maharashtra,Nagpur,484,1,नागपूर,27
+maharashtra-485,maharashtra,Nanded,485,1,नांदेड,27
+maharashtra-486,maharashtra,Nandurbar,486,1,नंदूरबार,27
+maharashtra-487,maharashtra,Nashik,487,1,नाशिक,27
+maharashtra-665,maharashtra,Palghar,665,1,पालघर,27
+maharashtra-489,maharashtra,Parbhani,489,1,परभणी,27
+maharashtra-490,maharashtra,Pune,490,1,पुणे,27
+maharashtra-491,maharashtra,Raigad,491,1,रायगड,27
+maharashtra-492,maharashtra,Ratnagiri,492,1,रत्नागिरी,27
+maharashtra-493,maharashtra,Sangli,493,1,सांगली,27
+maharashtra-494,maharashtra,Satara,494,1,सातारा,27
+maharashtra-495,maharashtra,Sindhudurg,495,1,सिंधुदुर्ग,27
+maharashtra-496,maharashtra,Solapur,496,3,सोलापूर,27
+maharashtra-497,maharashtra,Thane,497,2,ठाणे,27
+maharashtra-498,maharashtra,Wardha,498,1,वर्धा,27
+maharashtra-499,maharashtra,Washim,499,1,वाशिम,27
+maharashtra-500,maharashtra,Yavatmal,500,1,यवतमाळ,27
+karnataka-524,karnataka,Bagalkote,524,2,ಬಾಗಲಕೋಟೆ,29
+karnataka-528,karnataka,Ballari,528,4,ಬಳ್ಳಾರಿ,29
+karnataka-527,karnataka,Belagavi,527,2,ಬೆಳಗಾವಿ,29
+karnataka-526,karnataka,Bengaluru Rural,526,2,ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ,29
+karnataka-631,karnataka,Bengaluru South,631,2,ಬೆಂಗಳೂರು ದಕ್ಷಿಣ,29
+karnataka-525,karnataka,Bengaluru Urban,525,1,ಬೆಂಗಳೂರು,29
+karnataka-529,karnataka,Bidar,529,1,ಬೀದರ್‌,29
+karnataka-531,karnataka,Chamarajanagar,531,3,ಚಾಮರಾಜನಗರ,29
+karnataka-630,karnataka,Chikkaballapura,630,2,ಚಿಕ್ಕಬಳ್ಳಾಪುರ,29
+karnataka-532,karnataka,Chikkamagaluru,532,2,ಚಿಕ್ಕಮಗಳೂರು,29
+karnataka-533,karnataka,Chitradurga,533,1,ಚಿತ್ರದುರ್ಗ,29
+karnataka-534,karnataka,Dakshina Kannada,534,2,ದಕ್ಷಿಣ ಕನ್ನಡ,29
+karnataka-535,karnataka,Davanagere,535,2,ದಾವಣಗೆರೆ,29
+karnataka-536,karnataka,Dharwad,536,1,ಧಾರವಾಡ,29
+karnataka-537,karnataka,Gadag,537,1,ಗದಗ,29
+karnataka-539,karnataka,Hassan,539,1,ಹಾಸನ,29
+karnataka-540,karnataka,Haveri,540,1,ಹಾವೇರಿ,29
+karnataka-538,karnataka,Kalaburagi,538,2,ಕಲಬುರಗಿ,29
+karnataka-541,karnataka,Kodagu,541,1,ಕೊಡಗು,29
+karnataka-542,karnataka,Kolar,542,1,ಕೋಲಾರ,29
+karnataka-543,karnataka,Koppal,543,1,ಕೊಪ್ಪಳ,29
+karnataka-544,karnataka,Mandya,544,1,ಮಂಡ್ಯ,29
+karnataka-545,karnataka,Mysuru,545,2,ಮೈಸೂರು,29
+karnataka-546,karnataka,Raichur,546,1,ರಾಯಚೂರು,29
+karnataka-547,karnataka,Shivamogga,547,2,ಶಿವಮೊಗ್ಗ,29
+karnataka-548,karnataka,Tumakuru,548,2,ತುಮಕೂರು,29
+karnataka-549,karnataka,Udupi,549,1,ಉಡುಪಿ,29
+karnataka-550,karnataka,Uttara Kannada,550,2,ಉತ್ತರ ಕನ್ನಡ,29
+karnataka-738,karnataka,Vijayanagara,738,3,vijayangara,29
+karnataka-530,karnataka,Vijayapura,530,2,ವಿಜಯಾಪುರ,29
+karnataka-635,karnataka,Yadgir,635,1,ಯಾದಗಿರಿ,29
+tamil-nadu-610,tamil-nadu,Ariyalur,610,1,அரியலூர்,33
+tamil-nadu-730,tamil-nadu,Chengalpattu,730,2,செங்கல்பட்டு,33
+tamil-nadu-568,tamil-nadu,Chennai,568,6,CHENNAI,33
+tamil-nadu-569,tamil-nadu,Coimbatore,569,1,COIMBATORE,33
+tamil-nadu-570,tamil-nadu,Cuddalore,570,1,CUDDALORE,33
+tamil-nadu-571,tamil-nadu,Dharmapuri,571,1,DHARMAPURI,33
+tamil-nadu-572,tamil-nadu,Dindigul,572,1,DINDIGUL,33
+tamil-nadu-573,tamil-nadu,Erode,573,1,ERODE,33
+tamil-nadu-729,tamil-nadu,Kallakurichi,729,33,கள்ளக்குறிச்சி,33
+tamil-nadu-574,tamil-nadu,Kancheepuram,574,3,KANCHIPURAM,33
+tamil-nadu-575,tamil-nadu,Kanniyakumari,575,1,KANNIYAKUMARI,33
+tamil-nadu-576,tamil-nadu,Karur,576,1,KARUR,33
+tamil-nadu-577,tamil-nadu,Krishnagiri,577,1,KRISHNAGIRI,33
+tamil-nadu-578,tamil-nadu,Madurai,578,1,MADURAI,33
+tamil-nadu-735,tamil-nadu,Mayiladuthurai,735,1,,33
+tamil-nadu-579,tamil-nadu,Nagapattinam,579,2,NAGAPATTINAM,33
+tamil-nadu-580,tamil-nadu,Namakkal,580,1,NAMAKKAL,33
+tamil-nadu-581,tamil-nadu,Perambalur,581,1,PERAMBALUR,33
+tamil-nadu-582,tamil-nadu,Pudukkottai,582,1,PUDUKKOTTAI,33
+tamil-nadu-583,tamil-nadu,Ramanathapuram,583,1,RAMANATHAPURAM,33
+tamil-nadu-731,tamil-nadu,Ranipet,731,9,ராணிப்பேட்டை,33
+tamil-nadu-584,tamil-nadu,Salem,584,1,SALEM,33
+tamil-nadu-585,tamil-nadu,Sivaganga,585,1,SIVAGANGA,33
+tamil-nadu-733,tamil-nadu,Tenkasi,733,8,தென்காசி,33
+tamil-nadu-586,tamil-nadu,Thanjavur,586,1,THANJAVUR,33
+tamil-nadu-588,tamil-nadu,Theni,588,1,THENI,33
+tamil-nadu-587,tamil-nadu,The Nilgiris,587,1,THE NILGIRIS,33
+tamil-nadu-589,tamil-nadu,Thiruvallur,589,6,THIRUVALLUR,33
+tamil-nadu-590,tamil-nadu,Thiruvarur,590,1,THIRUVARUR,33
+tamil-nadu-594,tamil-nadu,Thoothukkudi,594,4,Thoothukkudi,33
+tamil-nadu-591,tamil-nadu,Tiruchirappalli,591,1,TIRUCHIRAPPALLI,33
+tamil-nadu-592,tamil-nadu,Tirunelveli,592,7,TIRUNELVELI,33
+tamil-nadu-732,tamil-nadu,Tirupathur,732,24,திருப்பத்தூர்,33
+tamil-nadu-634,tamil-nadu,Tiruppur,634,1,TIRUPPUR,33
+tamil-nadu-593,tamil-nadu,Tiruvannamalai,593,1,TIRUVANNAMALAI,33
+tamil-nadu-595,tamil-nadu,Vellore,595,28,VELLORE,33
+tamil-nadu-596,tamil-nadu,Viluppuram,596,34,VILLUPURAM,33
+tamil-nadu-597,tamil-nadu,Virudhunagar,597,1,VIRUDHUNAGAR,33
+andhra-pradesh-745,andhra-pradesh,Alluri Sitharama Raju,745,2,Alluri Sitharama Raju,28
+andhra-pradesh-744,andhra-pradesh,Anakapalli,744,1,Anakapalli,28
+andhra-pradesh-502,andhra-pradesh,Ananthapuramu,502,3,అనంతపురము,28
+andhra-pradesh-753,andhra-pradesh,Annamayya,753,4,Annamayya,28
+andhra-pradesh-750,andhra-pradesh,Bapatla,750,2,Bapatla,28
+andhra-pradesh-503,andhra-pradesh,Chittoor,503,4,CHITTOOR,28
+andhra-pradesh-747,andhra-pradesh,Dr. B.R. Ambedkar Konaseema,747,3,డా బి ఆర్  అంబేడ్కర్ కోనసీమ,28
+andhra-pradesh-505,andhra-pradesh,East Godavari,505,6,EAST GODAVARI,28
+andhra-pradesh-748,andhra-pradesh,Eluru,748,4,Eluru,28
+andhra-pradesh-506,andhra-pradesh,Guntur,506,3,GUNTUR,28
+andhra-pradesh-746,andhra-pradesh,Kakinada,746,1,Kakinada,28
+andhra-pradesh-510,andhra-pradesh,Krishna,510,4,KRISHNA,28
+andhra-pradesh-511,andhra-pradesh,Kurnool,511,2,KURNOOL,28
+andhra-pradesh-790,andhra-pradesh,Markapuram,790,1,Markapuram,28
+andhra-pradesh-755,andhra-pradesh,Nandyal,755,1,Nandyal,28
+andhra-pradesh-749,andhra-pradesh,Ntr,749,1,NTR,28
+andhra-pradesh-751,andhra-pradesh,Palnadu,751,1,Palnadu,28
+andhra-pradesh-743,andhra-pradesh,Parvathipuram Manyam,743,1,Parvathipuram Manyam,28
+andhra-pradesh-791,andhra-pradesh,Polavaram,791,1,Polavaram,28
+andhra-pradesh-517,andhra-pradesh,Prakasam,517,6,PRAKASAM,28
+andhra-pradesh-519,andhra-pradesh,Srikakulam,519,3,SRIKAKULAM,28
+andhra-pradesh-515,andhra-pradesh,Sri Potti Sriramulu Nellore,515,6,శ్రీ పొట్టి శ్రీరాములు నెల్లూరు,28
+andhra-pradesh-754,andhra-pradesh,Sri Sathya Sai,754,1,Sri Sathya Sai,28
+andhra-pradesh-752,andhra-pradesh,Tirupati,752,3,Tirupati,28
+andhra-pradesh-520,andhra-pradesh,Visakhapatnam,520,4,విశాఖపట్నం,28
+andhra-pradesh-521,andhra-pradesh,Vizianagaram,521,3,VIZIANAGARAM,28
+andhra-pradesh-523,andhra-pradesh,West Godavari,523,5,పశ్చిమగోదావరి,28
+andhra-pradesh-504,andhra-pradesh,Y.S.R. Kadapa,504,4,వై.ఎస్.ఆర్. కడప,28
+telangana-501,telangana,Adilabad,501,5,ఆదిలాబాద్,36
+telangana-690,telangana,Bhadradri Kothagudem,690,2,భద్రాద్రి కొత్తగూడెం,36
+telangana-686,telangana,Hanumakonda,686,10,హనుమకొండ,36
+telangana-507,telangana,Hyderabad,507,2,హైదరాబాద్,36
+telangana-681,telangana,Jagitial,681,2,జగిత్యాల,36
+telangana-689,telangana,Jangoan,689,1,జనగాం,36
+telangana-687,telangana,Jayashankar Bhupalapally,687,3,జయశంకర్ భూపాలపల్లి,36
+telangana-695,telangana,Jogulamba Gadwal,695,2,జోగులాంబ గద్వాల,36
+telangana-685,telangana,Kamareddy,685,3,కామారెడ్డి,36
+telangana-508,telangana,Karimnagar,508,10,కరీంనగర్,36
+telangana-509,telangana,Khammam,509,5,ఖమ్మం,36
+telangana-699,telangana,Kumuram Bheem Asifabad,699,2,కుమురం భీమ్ ఆసిఫాబాద్,36
+telangana-688,telangana,Mahabubabad,688,1,మహబుబాబాద్,36
+telangana-512,telangana,Mahabubnagar,512,12,మహబూబ్ నగర్,36
+telangana-684,telangana,Mancherial,684,1,మంచిర్యాల్,36
+telangana-513,telangana,Medak,513,5,మెదక్,36
+telangana-700,telangana,Medchal Malkajgiri,700,2,మేడ్చల్ మల్కాజిగిరి,36
+telangana-720,telangana,Mulugu,720,1,ములుగు,36
+telangana-694,telangana,Nagarkurnool,694,5,నాగర్ కర్నూల్,36
+telangana-514,telangana,Nalgonda,514,5,నల్గొండ,36
+telangana-721,telangana,Narayanpet,721,2,నారాయణ్ పేట్,36
+telangana-680,telangana,Nirmal,680,1,నిర్మల్,36
+telangana-516,telangana,Nizamabad,516,3,నిజామాబాదు,36
+telangana-682,telangana,Peddapalli,682,2,పెద్దపల్లి,36
+telangana-683,telangana,Rajanna Sircilla,683,3,రాజన్న సిరిసిల్ల,36
+telangana-518,telangana,Ranga Reddy,518,5,రంగా రెడ్డి,36
+telangana-691,telangana,Sangareddy,691,4,సంగారెడ్డి,36
+telangana-692,telangana,Siddipet,692,4,సిద్దిపేట,36
+telangana-696,telangana,Suryapet,696,1,సూర్యాపేట,36
+telangana-698,telangana,Vikarabad,698,5,వికారాబాద్,36
+telangana-693,telangana,Wanaparthy,693,4,వనపర్తి,36
+telangana-522,telangana,Warangal,522,17,వరంగల్,36
+telangana-697,telangana,Yadadri Bhuvanagiri,697,2,యదాద్రి భువనగిరి,36

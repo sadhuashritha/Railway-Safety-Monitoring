@@ -1,0 +1,8 @@
+﻿fastapi
+uvicorn[standard]
+ultralytics
+opencv-python-headless
+Pillow
+python-dotenv
+pymongo
+python-multipart

@@ -1,0 +1,6 @@
+{
+  "name": "RailWatch AI - Enterprise Vision Safety",
+  "description": "Enterprise railway vision safety platform with edge computer vision, real-time track hazard detection, incident triage, and cab signaling telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

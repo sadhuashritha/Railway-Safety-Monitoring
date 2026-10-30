@@ -1,0 +1,159 @@
+﻿# ==========================================
+# OLD FRONTEND - NEVER UPLOAD
+# ==========================================
+/frontend/
+
+# ==========================================
+# PYTHON ENVIRONMENTS
+# ==========================================
+venv/
+venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
+# ENVIRONMENT VARIABLES AND SECRETS
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# NODE MODULES AND BUILD FILES
+# ==========================================
+node_modules/
+dist/
+build/
+.vite/
+.cache/
+coverage/
+
+# ==========================================
+# NEW FRONTEND GENERATED FILES
+# Keep frontend-new source code
+# ==========================================
+/frontend-new/node_modules/
+/frontend-new/dist/
+/frontend-new/.vite/
+
+# ==========================================
+# DATASETS AND REVIEW FOLDERS
+# ==========================================
+/dataset/
+/dataset_annotation_review/
+/dataset_visual_review/
+/tree_trash_review/
+
+# ==========================================
+# BACKUPS AND EDITOR SETTINGS
+# ==========================================
+/backups/
+/.vscode/
+/.idea/
+
+# ==========================================
+# YOLO TRAINING OUTPUTS
+# Keep only the trained model required by backend
+# ==========================================
+/runs/*
+!/runs/railway_yolo11n_6class_v1/
+/runs/railway_yolo11n_6class_v1/*
+!/runs/railway_yolo11n_6class_v1/weights/
+/runs/railway_yolo11n_6class_v1/weights/*
+!/runs/railway_yolo11n_6class_v1/weights/best.pt
+
+# Separate pretrained model
+/yolo11n.pt
+
+# ==========================================
+# GENERATED REPORTS
+# ==========================================
+duplicate_check_report.txt
+dataset_inspection.txt
+validation_report.txt
+
+# ==========================================
+# TEMPORARY FILES AND LOGS
+# ==========================================
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# ROOT-LEVEL FRONTEND SCAFFOLD
+# Use frontend-new as the deployed frontend
+# ==========================================
+/src/
+/index.html
+/package.json
+/package-lock.json
+/bun.lock
+/tsconfig.json
+/vite.config.ts
+/metadata.json
+
+
+# ==========================================
+# DATABASE MIGRATION BACKUPS
+# ==========================================
+/backend/backups/
+
+# ==========================================
+# UNUSED MODEL COPY
+# ==========================================
+/backend/models/
+
+# ==========================================
+# GENERATED DATASET AND STATION REVIEW REPORTS
+# ==========================================
+/class_suitability_report.txt
+/corrected_station_mapping_review.csv
+/high_confidence_subdistrict_review.csv
+/station_district_validation_report.csv
+/station_mapping_review_summary.txt
+/station_reconciliation_report.csv
+/station_reconciliation_summary.csv
+/subdistrict_candidate_review.csv
+/subdistrict_unique_candidate_review.csv
+/telangana_stations_review.csv
+
+
+# ==========================================
+# LOCAL-ONLY DEVELOPMENT AND TRAINING SCRIPTS
+# ==========================================
+/backups/
+/venv313/
+/check_duplicates.py
+/class_suitability.py
+/clean_dataset.py
+/correct_station_mapping.py
+/evaluate_model.py
+/extract_telangana_stations.py
+/import_telangana_stations.py
+/inspect_annotations.py
+/inspect_cleaned.py
+/inspect_dataset.py
+/inspect_tree_trash.py
+/inspect_visual_samples.py
+/map_telangana_stations.py
+/match_telangana_subdistricts.py
+/remove_duplicates.py
+/test_predictions.py
+/train_model.py
+
+/backend/import_lgd_locations.py
+/backend/import_stations.py
+/backend/inspect_migration_records.py
+/backend/inspect_subdistrict_mismatches.py
+/backend/migrate_local_to_atlas.py
+/backend/migrate_railway_mongo.py
+/backend/migration_relationship_audit.py
+/backend/reconcile_stations.py
+/backend/reconcile_stations_before_consolidated.py
+/backend/reconcile_stations_before_district_alias_fix.py
+/backend/reconcile_stations_before_normalization.py
+/backend/seed_locations.py
